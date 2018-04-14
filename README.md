@@ -3,7 +3,7 @@ Luv Music
 
 ## Makes Your life magical
 
-(https://github.com/ovijit16/images/blob/master/luv%20screenshot/luvmusic%20logo.jpg?raw=true)
+![luv](https://github.com/ovijit16/images/blob/master/luv%20screenshot/luvmusic%20logo.jpg?raw=true)
 
 
 ***Description:***
